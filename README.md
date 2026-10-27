@@ -25,7 +25,6 @@
 | `LICENSE` | MIT 许可证 |
 | `.gitignore` | 防止误提交配置、数据库、日志和密钥 |
 
-`README.md`、`LICENSE`、`.gitignore` 保留英文标准文件名，因为 GitHub 会自动识别它们；其余文件使用中文名，方便阅读。
 
 ## 快速使用
 
